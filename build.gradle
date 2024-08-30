@@ -27,6 +27,7 @@ ext {
     guiceValidator = '3.0.2'
 }
 
+
 // root project is a BOM
 dependencies {
     // dropwizard BOM must go first to let maven select correct guava
